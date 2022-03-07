@@ -12,7 +12,7 @@ This script can add field to all document in your collection
 
 ## Before setup
 
-Customize the collection, field names and firebaseConfig on index.ts.
+Customize the collection, field names and firebaseConfig on index.js.
 
 ## Setup
 
